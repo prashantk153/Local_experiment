@@ -1,4 +1,3 @@
-#this is python file
+#this is python file that we've sent to the central hub.
 
 
-#We have successfully sent this python to the github
